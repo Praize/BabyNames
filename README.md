@@ -1,3 +1,8 @@
+# Baby Names Application 👶🏿
+This is a React Application making use of the Ninja Api which randomizes baby names depending on gender. A couple thinking of baby names can get ideas by making use of the app. Its fully responsive with burger menu,. Check it out Installation steps below.✌
+
+![babyscreenshot](https://github.com/Praize/BabyNames/assets/40473705/59a987c1-3ab4-4f6a-9901-cbd26842522d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
